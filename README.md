@@ -8,7 +8,7 @@ O desenvolvimento desse projeto foi realizado durante o curso de Desenvolvimento
 
 ## Como utilizar:
 
-Clone o repositório: `git clone [link]`.
+Clone o repositório: `git clone git@github.com:fa-biano/trybers-and-dragons.git`.
 
 <details>
   <summary><strong>Rodando com Docker :whale: ou Localmente</strong></summary>
